@@ -1,0 +1,6 @@
+s=input()
+k=s.upper()
+if "COV" in k:
+    print("Veikur!")
+else:
+    print("Ekki Veikur!")    
